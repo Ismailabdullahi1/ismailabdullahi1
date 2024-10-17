@@ -21,7 +21,7 @@
 
 <h2 align="center" style="color: #32cd32; font-weight: bold;">🌱 Currently Learning</h2>
 <p align="center" style="font-size: 1.2em;">
-  .NET Programming and Full Stack Development
+  .NET and Full Stack Development
 </p>
 
 <h2 align="center" style="color: #4682b4; font-weight: bold;">💬 Ask Me About</h2>

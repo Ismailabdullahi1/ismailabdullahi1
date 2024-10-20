@@ -24,10 +24,7 @@
   .NET and Full Stack Development
 </p>
 
-<h2 align="center" style="color: #4682b4; font-weight: bold;">💬 Ask Me About</h2>
-<p align="center" style="font-size: 1.2em;">
-  Web Development, System Analyst, Software Design, Requirement Engineering
-</p>
+
 
 <!-- Fun Fact Section with 3D Badge -->
 <p align="center">

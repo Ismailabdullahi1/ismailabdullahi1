@@ -62,14 +62,4 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailabdullahi1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailabdullahi1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailabdullahi1&theme=radical" alt="GitHub Streak" />
-</p>
+

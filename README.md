@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Final_Year_Project_Innovative-_Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
+  <img src="https://img.shields.io/badge/Final_Year_Project-Innovative_Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
   <img src="https://img.shields.io/badge/Currently_Learning-.NET_&_Full_Stack_Development-green?style=for-the-badge" alt="Learning Badge"/>
 </div>
 

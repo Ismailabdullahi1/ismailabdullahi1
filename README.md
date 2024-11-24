@@ -14,12 +14,11 @@
 
 ---
 
-### 🚀 About Me
-- 🌍 **From**: Somalia 🌍  
+### 🚀 About Me  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
 - 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
 - 🌱 **Currently Learning**: `.NET` | Full Stack Development  
-- ✨ **Fun Fact**: I’m passionate about both **coding** and **cars** 🚗  
+- ✨ **Fun Fact**: I’m passionate about **cars** 🚗  
 
 ---
 

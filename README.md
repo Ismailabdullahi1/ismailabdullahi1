@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png)" alt="Banner" style="width:100%;border-radius:8px;"/>
+  <img src="https://t4.ftcdn.net/jpg/08/53/93/53/360_F_853935354_EKeZoEJJqCF7ZzgxeaHzIcvB4kIDIZDq.jpg)" alt="Banner" style="width:100%;border-radius:8px;"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>

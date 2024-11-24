@@ -49,6 +49,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+### 📜 **Certificates and Licenses**
+
+- ![CCNA Badge](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?style=for-the-badge)  
+  *Cisco Certified Network Associate: Introduction to Networks (ITN)*
+
+- ![UTHM Badge](https://img.shields.io/badge/UTHM-Intelligent%20and%20Autonomous%20System-blueviolet?style=for-the-badge)  
+  *UTHM Certification: Intelligent and Autonomous System*
+
+- ![IEEE Badge](https://img.shields.io/badge/IEEE-UPI%20SB%20International%20Webinar%202.3-red?style=for-the-badge)  
+  *IEEE Certification for International Webinar*
+
+- ![Udemy Badge](https://img.shields.io/badge/Udemy-Full%20Stack%20Developer%20Bootcamp-orange?style=for-the-badge)  
+  *Udemy: Full Stack Developer Bootcamp*
+
+- ![Udemy Badge](https://img.shields.io/badge/Udemy-Your%20Second%20Course%20Here-orange?style=for-the-badge)
+
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-abdullahi-865365240/)

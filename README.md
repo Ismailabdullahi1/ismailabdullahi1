@@ -51,7 +51,7 @@
 ---
 ### 📜 **Certificates and Licenses**
 
-- ![CCNA Badge](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?style=for-the-badge)  
+- ![CCNA Badge](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?style=for-the-badge)]([https://www.credly.com/badges/0cf9bda8-ed22-492c-8432-2923bb94f920/public_url)  
   *Cisco Certified Network Associate: Introduction to Networks (ITN)*
 
 - ![UTHM Badge](https://img.shields.io/badge/UTHM-Intelligent%20and%20Autonomous%20System-blueviolet?style=for-the-badge)  
@@ -63,7 +63,6 @@
 - ![Udemy Badge](https://img.shields.io/badge/Udemy-Full%20Stack%20Developer%20Bootcamp-orange?style=for-the-badge)  
   *Udemy: Full Stack Developer Bootcamp*
 
-- ![Udemy Badge](https://img.shields.io/badge/Udemy-Your%20Second%20Course%20Here-orange?style=for-the-badge)
 
 
 ### 🌐 Connect With Me

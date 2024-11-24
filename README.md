@@ -13,6 +13,12 @@
 </div>
 
 ---
+### 🌟 Tickers for Activity
+- ![Commits](https://img.shields.io/github/commit-activity/m/ismailabdullahi1/FinalYearProject?style=for-the-badge)
+- ![Pull Requests](https://img.shields.io/github/issues-pr/ismailabdullahi1/FinalYearProject?style=for-the-badge)
+- ![Repositories](https://img.shields.io/github/repo-size/ismailabdullahi1/FinalYearProject?style=for-the-badge)
+
+---
 
 ### 🚀 About Me  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  

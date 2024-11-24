@@ -1,46 +1,70 @@
-<!-- Centered and Stylish Banner Image -->
+<h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>
+<h3 align="center">Software Engineering Student | Passionate about Coding & Cars</h3>
 
+---
 
-<!-- Main Introduction -->
-<h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Ismail Abdullahi</h1>
-<h3 align="center" style="color: #555;">Software Engineering Student | Passionate about Coding & Cars</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Final_Year_Project-Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-.NET_&_Full_Stack_Development-green?style=for-the-badge" alt="Learning Badge"/>
+</div>
 
-<!-- Animated 3D Coding Image -->
+---
 
+### 🚀 About Me
+- 🌍 **From**: Somalia 🌍  
+- 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
+- 🔭 **Currently Working On**: My Final Year Project – *Smart Parking System*  
+- 🌱 **Currently Learning**: `.NET` | Full Stack Development  
+- ✨ **Fun Fact**: I’m passionate about both **coding** and **cars** 🚗  
 
-<!-- Fun Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismailabdullahi1&label=PROFILE+VIEWS&color=ff69b4&style=plastic" alt="ismailabdullahi1" />
-</p>
+---
 
-<!-- About Me Section with 3D Button Styles -->
-<h2 align="center" style="color: #ff6347; font-weight: bold;">🔭 Currently Working On</h2>
-<p align="center" style="font-size: 1.2em;">
-  Final Year Project
-</p>
+### 🛠️ Skills
+#### Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h2 align="center" style="color: #32cd32; font-weight: bold;">🌱 Currently Learning</h2>
-<p align="center" style="font-size: 1.2em;">
-  .NET and Full Stack Development
-</p>
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+#### Backend Development
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- Fun Fact Section with 3D Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Fun%20Fact-BMW%20M5%20Lover-blueviolet?style=for-the-badge&logo=car" alt="Fun Fact Badge" />
-</p>
+---
 
-<!-- Social Links with 3D Hover Effect -->
-<h3 align="center" style="font-size: 1.8em;">Connect With Me</h3>
-<p align="center">
-  <a href="https://twitter.com/ismailawmohamed" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://instagram.com/ismailawmohamed1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailabdullahi1)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
 
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailabdullahi1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailabdullahi1&theme=radical" alt="GitHub Streak" />
+</div>
 
+---
+
+### 💡 Fun Fact Badge
+> 🚀 "Software is eating the world." – Marc Andreessen  
+
+---
+
+### 🤝 Let's Collaborate
+I’m always open to collaborating on exciting projects and sharing knowledge. Feel free to reach out via any of the platforms above!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismailabdullahi1&style=for-the-badge" alt="Profile Views" />
+</div>

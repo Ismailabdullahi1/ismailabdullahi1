@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Final_Year_Project-Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
+  <img src="https://img.shields.io/badge/Final_Year_Project-Innovative-Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
   <img src="https://img.shields.io/badge/Currently_Learning-.NET_&_Full_Stack_Development-green?style=for-the-badge" alt="Learning Badge"/>
 </div>
 
@@ -50,9 +50,9 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ismail-abdullahi-865365240/))
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailabdullahi1)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-profile](https://x.com/ismailawmohamed?s=21&t=Tv6Hxhrs8KImr4cprQf4dA))
 
 ---
 
@@ -69,8 +69,6 @@
 
 ---
 
-### 🤝 Let's Collaborate
-I’m always open to collaborating on exciting projects and sharing knowledge. Feel free to reach out via any of the platforms above!
 
 ---
 

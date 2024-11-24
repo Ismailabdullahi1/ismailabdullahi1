@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/000000/FFFFFF?text=Programming+|+Software+Engineering+|+Innovation" alt="Banner" style="width:100%;border-radius:8px;"/>
+  <img src="https://via.placeholder.com/1200x300/000000/FFFFFF?text=Programming+|+Software+Engineering+|+ IoTInnovation" alt="Banner" style="width:100%;border-radius:8px;"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 - 🌍 **From**: Somalia 🌍  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
-- 🔭 **Currently Working On**: My Final Year Project – *Smart Parking System*  
+- 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
 - 🌱 **Currently Learning**: `.NET` | Full Stack Development  
 - ✨ **Fun Fact**: I’m passionate about both **coding** and **cars** 🚗  
 

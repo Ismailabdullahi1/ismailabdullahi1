@@ -19,7 +19,7 @@
 ### 🚀 About Me  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
 - 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
-- 🌱 **Currently Learning**: `.NET` | Full Stack Development  
+- 🌱 **Currently Learning**: `.NET` | Full Stack Development | Python
 - ✨ **Fun Fact**: I’m passionate about **cars** 🚗  
 
 ---

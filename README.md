@@ -13,10 +13,6 @@
 </div>
 
 ---
-### 🌟 Tickers for Activity
-- ![Commits](https://img.shields.io/github/commit-activity/m/ismailabdullahi1)
-- ![Pull Requests](https://img.shields.io/github/issues-pr/ismailabdullahi1)
-- ![Repositories](https://img.shields.io/github/repo-size/ismailabdullahi1)
 
 ---
 
@@ -68,6 +64,11 @@
 </div>
 
 ---
+### 🌐 Languages Used in Repositories
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailabdullahi1&layout=compact&theme=radical" alt="Languages Used" />
+</div>
+
 
 ### 💡 Fun Fact Badge
 > 🚀 "Software is eating the world." – Marc Andreessen  

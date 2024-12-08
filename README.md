@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png") alt="Banner" style="width:100%;border-radius:8px;"/>
+  <img src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png" alt="Banner" style="width:100%;border-radius:8px;"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>
@@ -14,17 +14,15 @@
 
 ---
 
----
-
-### 🚀 About Me  
+## 🚀 About Me  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
 - 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
-- 🌱 **Currently Learning**: `.NET` | Full Stack Development | Python
+- 🌱 **Currently Learning**: `.NET` | Full Stack Development | Python  
 - ✨ **Fun Fact**: I’m passionate about **cars** 🚗  
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 #### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,6 +32,11 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 #### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -49,7 +52,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📜 **Certificates and Licenses**
+
+## 📜 Certificates and Licenses
 
 - [![CCNA Badge](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?style=for-the-badge)](https://www.credly.com/badges/0cf9bda8-ed22-492c-8432-2923bb94f920/public_url)  
   *Cisco Certified Network Associate: Introduction to Networks (ITN)*
@@ -63,33 +67,27 @@
 - ![Udemy Badge](https://img.shields.io/badge/Udemy-Full%20Stack%20Developer%20Bootcamp-orange?style=for-the-badge)  
   *Udemy: Full Stack Developer Bootcamp*
 
+---
 
-
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-abdullahi-865365240/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailabdullahi1)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ismailawmohamed?s=21&t=Tv6Hxhrs8KImr4cprQf4dA)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismailabdullahi1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailabdullahi1&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
-### 🌐 Languages Used in Repositories
+
+## 🌐 Languages Used in Repositories
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailabdullahi1&layout=compact&theme=radical" alt="Languages Used" />
 </div>
-
-
-### 💡 Fun Fact Badge
-> 🚀 "Software is eating the world." – Marc Andreessen  
-
----
-
 
 ---
 

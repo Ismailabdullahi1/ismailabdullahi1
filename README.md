@@ -9,8 +9,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Final_Year_Project-Innovative_Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
-  
 </div>
+
 
 ---
 
@@ -89,8 +89,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailabdullahi1&layout=compact&theme=radical" alt="Languages Used" />
 </div>
 
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ismailabdullahi1&style=for-the-badge" alt="Profile Views" />
 </div>
+
+---

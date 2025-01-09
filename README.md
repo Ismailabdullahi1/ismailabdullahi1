@@ -35,7 +35,6 @@
 
 #### Frameworks
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 #### Backend Development
@@ -50,6 +49,10 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23F90.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-%23007C91.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 ---
 

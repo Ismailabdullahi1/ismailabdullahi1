@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://eranstiller.com/wp-content/uploads/2023/09/Software-Engineer-Skills.png" alt="Banner" style="width:100%;border-radius:8px;"/>
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>
 <h3 align="center">Software Engineering Student | IoT And Automation Innovator ⚙️</h3>

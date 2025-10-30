@@ -2,13 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ismail Abdullahi</h1>
 <h3 align="center">Software Engineer⚙️</h3>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Final_Year_Project-Innovative_Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
-</div>
-
 ---
 #### Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

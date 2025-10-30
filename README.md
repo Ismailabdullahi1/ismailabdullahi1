@@ -23,7 +23,7 @@
 #### UI/UX Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Tools & Platforms
+#### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-%23007C91.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)

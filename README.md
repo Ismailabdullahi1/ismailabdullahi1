@@ -11,7 +11,6 @@
 
 
 ---
-
 ## 🚀 About Me  
 - 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
 - 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
@@ -19,53 +18,28 @@
 - ✨ **Fun Fact**: I’m passionate about **cars** 🚗  
 
 ---
-
-## 🛠️ Skills
-#### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 #### Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 #### Frameworks
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Backend Development
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### UI/UX Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-%23F90.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-%23007C91.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-
----
-
-## 📜 Certificates and Licenses
-
-- [![CCNA Badge](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?style=for-the-badge)](https://www.credly.com/badges/0cf9bda8-ed22-492c-8432-2923bb94f920/public_url)  
-  *Cisco Certified Network Associate: Introduction to Networks (ITN)*
-
-- ![UTHM Badge](https://img.shields.io/badge/UTHM-Intelligent%20and%20Autonomous%20System-blueviolet?style=for-the-badge)  
-  *UTHM Certification: Intelligent and Autonomous System*
-
-- ![IEEE Badge](https://img.shields.io/badge/IEEE-UPI%20SB%20International%20Webinar%202.3-red?style=for-the-badge)  
-  *IEEE Certification for International Webinar*
-
-- ![Udemy Badge](https://img.shields.io/badge/Udemy-Full%20Stack%20Developer%20Bootcamp-orange?style=for-the-badge)  
-  *Udemy: Full Stack Developer Bootcamp*
 
 ---
 

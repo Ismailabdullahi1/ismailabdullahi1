@@ -9,14 +9,6 @@
   <img src="https://img.shields.io/badge/Final_Year_Project-Innovative_Smart_Parking_System-blue?style=for-the-badge" alt="FYP Badge"/>
 </div>
 
-
----
-## 🚀 About Me  
-- 🎓 **Student at**: Universiti Tun Hussein Onn Malaysia (UTHM)  
-- 🔭 **Currently Working On**: My Final Year Project – *Innovative Smart Parking System*  
-- 🌱 **Currently Learning**: `.NET` | Full Stack Development | Python  
-- ✨ **Fun Fact**: I’m passionate about **cars** 🚗  
-
 ---
 #### Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -22,9 +22,10 @@
 ---
 
 ## 🌐 Languages Used in Repositories
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailabdullahi1&layout=compact&theme=radical" alt="Languages Used" />
-</div>
+
+<!-- LANGUAGES-START -->
+Statistics will be updated automatically.
+<!-- LANGUAGES-END -->
 
 
 ---

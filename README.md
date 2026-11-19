@@ -26,16 +26,16 @@
 <!-- LANGUAGES-START -->
 | Language | Usage |
 |---|---:|
-| PHP | 31.76% |
-| HTML | 24.15% |
-| CSS | 18.06% |
-| C# | 10.15% |
-| Java | 6.16% |
-| JavaScript | 4.97% |
-| Python | 2.79% |
-| ASP.NET | 0.91% |
-| Hack | 0.65% |
-| C++ | 0.39% |
+| PHP | 69.22% |
+| TypeScript | 13.39% |
+| Hack | 6.25% |
+| JavaScript | 4.86% |
+| CSS | 4.11% |
+| HTML | 1.08% |
+| C# | 0.34% |
+| Vue | 0.32% |
+| Java | 0.21% |
+| Python | 0.15% |
 <!-- LANGUAGES-END -->
 
 

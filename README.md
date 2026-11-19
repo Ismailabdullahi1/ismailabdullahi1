@@ -16,10 +16,9 @@
 
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ismailabdullahi1&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics">
+<img height="165" src="./profile/stats.svg" alt="GitHub Statistics">
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismailabdullahi1&theme=github-dark-blue&hide_border=true" alt="Contribution Streak">
 </p>
-
 
 
 <p align="center">

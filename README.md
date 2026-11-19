@@ -24,18 +24,7 @@
 ## 🌐 Languages Used in Repositories
 
 <!-- LANGUAGES-START -->
-| Language | Usage |
-|---|---:|
-| PHP | 69.22% |
-| TypeScript | 13.39% |
-| Hack | 6.25% |
-| JavaScript | 4.86% |
-| CSS | 4.11% |
-| HTML | 1.08% |
-| C# | 0.34% |
-| Vue | 0.32% |
-| Java | 0.21% |
-| Python | 0.15% |
+![GitHub Language Statistics](https://raw.githubusercontent.com/Ismailabdullahi1/Ismailabdullahi1/main/assets/languages.svg)
 <!-- LANGUAGES-END -->
 
 

@@ -24,7 +24,18 @@
 ## 🌐 Languages Used in Repositories
 
 <!-- LANGUAGES-START -->
-Statistics will be updated automatically.
+| Language | Usage |
+|---|---:|
+| PHP | 31.76% |
+| HTML | 24.15% |
+| CSS | 18.06% |
+| C# | 10.15% |
+| Java | 6.16% |
+| JavaScript | 4.97% |
+| Python | 2.79% |
+| ASP.NET | 0.91% |
+| Hack | 0.65% |
+| C++ | 0.39% |
 <!-- LANGUAGES-END -->
 
 

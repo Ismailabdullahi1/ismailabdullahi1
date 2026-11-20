@@ -8,7 +8,7 @@
 ## STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,mysql,cloudflare,docker,git,github,vscode&perline=7" alt="Technology Stack">
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,mysql,cloudflare,docker,git,github&perline=7" alt="Technology Stack">
 </p>
 
 
